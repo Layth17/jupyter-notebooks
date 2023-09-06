@@ -1,6 +1,8 @@
 *.csv
+!s_*.csv
 *.zip
 *.html
+!s_*.html
 *.json
 noarch/
 icons/
